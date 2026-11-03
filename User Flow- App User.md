@@ -21,3 +21,6 @@ flowchart TD
   A7 -->|"Show case QR"| YARD
   YARD --> A8
 ```
+
+Daily Limit pani huna sakla
+Hourly limit pani huna sakla (Put Daily Limit/ Hourly Requirement)
